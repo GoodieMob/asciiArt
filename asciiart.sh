@@ -150,8 +150,13 @@ function etu25 {
 	clear
 }
 function etu26 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de art"
+      	echo "		                  __     "                    
+	echo "	__  _  ____ __          _/  |______    ____    ____  "
+	echo "	\ \/ \/ /  |  \  ______ \   __\__  \  /    \  / ___\ "
+ 	echo "	 \    /|  |  / /_____/   |  |  / __ \|   |  \/ /_/  >"
+ 	echo "	  \/\_/ |____/           |__| (____  /___|  /\___  / "
+        echo "                 	     	           \/     \//_____/"
 	sleep $1
 	clear
 }
@@ -185,28 +190,8 @@ function etu31 {
 	sleep $1
 	clear
 }
-function prof {
-	echo "travail du prof"
-	echo "		    .."
-	echo "	     	. .."
-	echo "	            .."
-	echo "             .."
-	echo "	            .."
-	echo "	           .."
-	echo "	         .."
-	echo "	##       ..    ####"
-	echo "	##.............##  ##"
-	echo "	##.............##   ##"
-	echo "	##.............## ##"
-	echo "	##.............###"
-	echo "	 ##...........##"
-	echo "	  #############"
-	echo "	  #############"
-	echo "	#################"
-	sleep $1
-	clear
-}
 
 #le chiffre passé en paramètre est le temps que votre ascii art sera affiché
-prof 1
+
+etu26 3
 
