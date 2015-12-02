@@ -102,8 +102,18 @@ echo "                                                                          
 	clear
 }
 function etu14 {
-	echo "travail de"
+	echo "travail de Yohann"
 	echo "mon asci art"
+	echo " ##  ############# "
+	echo "##  ##           ##"
+	echo "#  ##  #########  #"
+	echo "# #   ##       ## #"
+	echo "# #  ##    ##   # #"
+	echo "# ##  ######   ## #"
+	echo "#  ##         ##  #"
+ 	echo "##  ###########  ##"
+	echo " ##             ## "
+	echo "  ###############  "
 	sleep $1
 	clear
 }
@@ -219,6 +229,10 @@ function etu31 {
 
 etu26 3
 prof 1
+
+etu14 3
+etu1 3
+etu12 1
 etu11 1
 etu13 3
 
